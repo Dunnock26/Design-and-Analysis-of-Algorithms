@@ -33,3 +33,7 @@ Dequeued: apple
 Queue after dequeue: ['banana', 'cherry']
 Is queue empty? False
 ```
+## Demo of the Program (Asciinema)
+```
+
+```
