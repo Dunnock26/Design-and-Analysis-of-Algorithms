@@ -31,3 +31,8 @@ python tree.py
 ```
 Inorder Traversal: ['apple', 'banana', 'cherry', 'date', 'elderberry']
 ```
+
+## Demo of the Program (Asciinema)
+```
+https://asciinema.org/a/RgzybvtSPjxwOHAvvCR97Zkat
+```
