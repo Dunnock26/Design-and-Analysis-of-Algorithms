@@ -6,11 +6,11 @@
 A Queue is a linear data structure that follows the FIFO (First In, First Out) principle. The first element added is the first one to be removed.
 
 ## Real-Life Uses
-Print Queue in a Printer
+* Print Queue in a Printer
 
-Customer Service Call Queue
+* Customer Service Call Queue
 
-Task Scheduling in OS
+* Task Scheduling in OS
 
 ## Key Lines of Code
 ```
